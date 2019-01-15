@@ -1,6 +1,7 @@
 # ESP32 PID-controll-with-C-user-interface
 PID-controll with C# user interface using ESP32 and a H-bridge
 
+Writen on behalf of ØStfold University College, faculty of informatics
 
 This is a skeleton for a PID-controller using a DC-motor and a LMD18200 H-bridge. The PID-controller itself is 
 not included, and should be coded in C++ in the PID.cpp file that is located in the PID_library folder.
