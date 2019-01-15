@@ -1,4 +1,4 @@
-# ESP32 PID-controll-with-C-user-interface
+# ESP32 PID-controll-with-C#-user-interface
 PID-controll with C# user interface using ESP32 and a H-bridge
 
 Writen on behalf of ØStfold University College, faculty of informatics
